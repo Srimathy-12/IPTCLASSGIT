@@ -1,5 +1,7 @@
 public class ThirdDemo{
 
+public static void main(){
 
+}
 
 }
